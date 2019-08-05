@@ -1,0 +1,98 @@
+[  
+   {  
+      "master_filter":"Clothing",
+      "master_url":"clothing-all",
+      "master_child":[  
+         {  
+            "filter":"Shirts & Tops",
+            "urlkey":"shirts-and-tops"
+         },
+         {  
+            "filter":"Dresses",
+            "urlkey":"shirts-and-tops"
+         },
+         {  
+            "filter":"Shorts & Skirts",
+            "urlkey":"shirts-and-tops"
+         },
+         {  
+            "filter":"Jackets",
+            "urlkey":"shirts-and-tops"
+         },
+         {  
+            "filter":"Coats",
+            "urlkey":"shirts-and-tops"
+         },
+         {  
+            "filter":"Sleeveless",
+            "urlkey":"shirts-and-tops"
+         },
+         {  
+            "filter":"Trousers",
+            "urlkey":"shirts-and-tops"
+         },
+         {  
+            "filter":"Winter Coats",
+            "urlkey":"shirts-and-tops"
+         },
+         {  
+            "filter":"Jumpsuits",
+            "urlkey":"shirts-and-tops"
+         }
+      ]
+   },
+   {  
+      "master_filter":"Jeans",
+      "master_url":"jeans-all",
+      "master_child":[  
+         {  
+            "filter":"Shirts & Tops",
+            "urlkey":"shirts-and-tops"
+         },
+         {  
+            "filter":"Dresses",
+            "urlkey":"shirts-and-tops"
+         },
+         {  
+            "filter":"Shorts & Skirts",
+            "urlkey":"shirts-and-tops"
+         },
+         {  
+            "filter":"Jackets",
+            "urlkey":"shirts-and-tops"
+         },
+         {  
+            "filter":"Coats",
+            "urlkey":"shirts-and-tops"
+         }
+      ]
+   },
+   {  
+      "master_filter":"Bags",
+      "master_url":"bags-all",
+      "master_child": ""
+   },
+   {  
+      "master_filter":"Accessories",
+      "master_url":"accessories-all",
+      "master_child": ""
+   },
+   {  
+      "master_filter":"Shoes",
+      "master_url":"shoes-all",
+      "master_child":[  
+         {  
+            "filter":"Trousers",
+            "urlkey":"shirts-and-tops"
+         },
+         {  
+            "filter":"Winter Coats",
+            "urlkey":"shirts-and-tops"
+         },
+         {  
+            "filter":"Jumpsuits",
+            "urlkey":"shirts-and-tops"
+         }
+      ]
+   }
+]

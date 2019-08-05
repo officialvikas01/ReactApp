@@ -1,0 +1,38 @@
+[
+   {
+      "CatId" : 1,
+      "CatName" : "Bags",      
+      "TotalPost" : 12, 
+	  "UrlKey" : "blog/cat/bags"
+   },
+   {
+       "CatId" : 2,
+      "CatName" : "Shoes",      
+      "TotalPost" : 22, 
+	  "UrlKey" : "blog/cat/bags"
+   }, 
+   {
+      "CatId" : 3,
+      "CatName" : "Dresses",      
+      "TotalPost" : 17, 
+	  "UrlKey" : "blog/cat/bags"
+   },  
+   {
+       "CatId" : 4,
+      "CatName" : "Accessories",      
+      "TotalPost" : 18, 
+	  "UrlKey" : "blog/cat/bags"
+   },
+   {
+      "CatId" : 5,
+      "CatName" : "Makeup",      
+      "TotalPost" : 11, 
+	  "UrlKey" : "blog/cat/bags"
+   },
+   {
+       "CatId" : 6,
+      "CatName" : "Beauty",      
+      "TotalPost" : 32, 
+	  "UrlKey" : "blog/cat/bags"
+   }
+]

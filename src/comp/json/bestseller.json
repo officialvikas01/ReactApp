@@ -1,0 +1,73 @@
+[
+   {
+      "productid" : 1,
+      "image" : "images/product-1.jpg",
+      "name" : "FLORAL JACKQUARD PULLOVER 1",
+      "rating" : 4,
+      "newprice" : 80,
+      "price" : 120,
+      "sale" : 20,
+      "urlkey" : "floral-jack-1"
+   },
+   {
+      "productid" : 2,
+      "image" : "images/product-2.jpg",
+      "name" : "FLORAL JACKQUARD PULLOVER",
+      "rating" : 5,
+      "newprice" : 100,
+      "price" : 120,
+      "sale" : "",
+      "urlkey" : "floral-jack-2"
+   }, 
+   {
+      "productid" : 3,
+      "image" : "images/product-3.jpg",
+      "name" : "FLORAL JACKQUARD PULLOVER",
+      "rating" : 5,
+      "newprice" : "",
+      "price" : 120,
+      "sale" : "",
+      "urlkey" : "floral-jack-3"
+   },  
+   {
+      "productid" : 4,
+      "image" : "images/product-4.jpg",
+      "name" : "FLORAL JACKQUARD PULLOVER",
+      "rating" : 1,
+      "newprice" : "",
+      "price" : 120,
+      "sale" : 10,
+      "urlkey" : "floral-jack-4"
+   }
+   ,
+   {
+      "productid" : 2,
+      "image" : "images/product-5.jpg",
+      "name" : "FLORAL JACKQUARD PULLOVER",
+      "rating" : 5,
+      "newprice" : 100,
+      "price" : 120,
+      "sale" : "",
+      "urlkey" : "floral-jack-2"
+   }, 
+   {
+      "productid" : 3,
+      "image" : "images/product-6.jpg",
+      "name" : "FLORAL JACKQUARD PULLOVER",
+      "rating" : 5,
+      "newprice" : "",
+      "price" : 120,
+      "sale" : "",
+      "urlkey" : "floral-jack-3"
+   },  
+   {
+      "productid" : 4,
+      "image" : "images/product-7.jpg",
+      "name" : "FLORAL JACKQUARD PULLOVER",
+      "rating" : 1,
+      "newprice" : "",
+      "price" : 120,
+      "sale" : 10,
+      "urlkey" : "floral-jack-4"
+   }
+]

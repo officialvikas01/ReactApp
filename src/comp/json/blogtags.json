@@ -1,0 +1,32 @@
+[
+   {
+      "TagId" : 1,
+      "TagName" : "Bags",  
+	  "UrlKey" : "tag/bags"
+   },
+   {
+       "TagId" : 2,
+      "TagName" : "Shoes",    
+	  "UrlKey" : "tag/bags"
+   }, 
+   {
+      "TagId" : 3,
+      "TagName" : "Dresses",  
+	  "UrlKey" : "tag/bags"
+   },  
+   {
+       "TagId" : 4,
+      "TagName" : "Accessories", 
+	  "UrlKey" : "tag/bags"
+   },
+   {
+      "TagId" : 5,
+      "TagName" : "Makeup",  
+	  "UrlKey" : "tag/bags"
+   },
+   {
+       "TagId" : 6,
+      "TagName" : "Beauty",  
+	  "UrlKey" : "tag/bags"
+   }
+]
